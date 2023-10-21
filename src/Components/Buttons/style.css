@@ -1,0 +1,14 @@
+.color-btn{
+    margin-top: 250px;
+    margin-left: 80%;
+}
+
+.select{
+    width: 60%;
+    height: 30px;
+    font-size: 19px;
+    font-weight: 800;
+    border: none;
+    outline: none;
+    gap: 20px;
+}

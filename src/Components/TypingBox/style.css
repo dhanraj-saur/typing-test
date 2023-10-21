@@ -1,0 +1,21 @@
+.time-button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin: 5% auto;
+    margin-top: -50px;
+}
+
+.textbox{
+    width: 1000px;
+    margin: 5% auto;
+    font-size: 25px;
+    letter-spacing:3px;
+}
+.btn{
+    border: none;
+   margin: 10px;
+   background: none;
+   font-size: 16px;
+}
